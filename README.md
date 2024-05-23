@@ -1,2 +1,3 @@
-# docs-driverworks-proxyprotocol-satellite
- Satellite Receiver Proxy SDK documentation
+# Driverworks Proxy/Protocol Guide - satellite
+
+Satellite Receiver Proxy SDK documentation
